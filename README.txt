@@ -1,3 +1,14 @@
+Application Overview:
+
+Farmers can take a picture of the diseased plant leaves using the user interface, which is 
+designed as an Android mobile app. The illness category and confidence level are then 
+displayed. This approach is anticipated to improve farmers' ability to maintain healthy crops 
+and prevent the use of inappropriate fertilizers that can stress plants. Finally, our system is
+using a variety of performance indicators, including processing speed and classification 
+accuracy.
+
+
+
 Instructions for running android application
 
 You need Android Emulator to run this code
